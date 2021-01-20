@@ -15,5 +15,5 @@ Obrigado por ler!
   
 Visite minhas redes!
 Behance: https://www.behance.net/LuisAmancio
-Instagram: https://www.instagram.com/lui_amancio/
+Instagram: https://www.instagram.com/lui_amancio/ (qualquer duvida com relção ao projeto pode mandar um "oi")
 linkedin: https://www.linkedin.com/in/luis-felipe-fernandes-amancio-45ab08123
