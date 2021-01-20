@@ -10,6 +10,7 @@ Arquivos:              Descrição:
 -ion.obj               Arquivo 3D da guitarra montada
   
 Ainda é necessario um tutorial de como utilizar os arquivos vetoriais (.ai) para usinagem CNC
+O diagrama eletrico será disponibilizado em breve
   
 Obrigado por ler!
   
